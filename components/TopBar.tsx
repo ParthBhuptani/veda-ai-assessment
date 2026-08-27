@@ -17,7 +17,7 @@ export function TopBar({ crumb = "Exams" }: { crumb?: string }) {
         <div className="flex items-center gap-2 sm:pl-3 sm:border-l border-slate-200">
           <div className="w-7 h-7 rounded-full bg-gradient-to-br from-orange-300 to-pink-300 shrink-0" />
           <span className="hidden md:inline text-sm font-medium text-slate-700">
-            Madhur Rangi
+            Parth Bhuptani
           </span>
         </div>
       </div>
