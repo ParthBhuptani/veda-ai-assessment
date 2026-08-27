@@ -50,8 +50,8 @@ export function Sidebar() {
             D
           </div>
           <div className="text-xs leading-tight">
-            <div className="font-medium text-slate-800">Delhi Public School</div>
-            <div className="text-slate-400">Rohini, East City</div>
+            <div className="font-medium text-slate-800">VGEC</div>
+            <div className="text-slate-400">Ahmedabad, Gujarat</div>
           </div>
         </div>
       </div>
